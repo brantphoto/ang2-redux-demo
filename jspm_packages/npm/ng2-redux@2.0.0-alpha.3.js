@@ -1,0 +1,1 @@
+module.exports = require("npm:ng2-redux@2.0.0-alpha.3/lib/index");
